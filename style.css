@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    background-color: #0a0a0c; /* 深色科技背景 */
+}
+
+#particleCanvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
