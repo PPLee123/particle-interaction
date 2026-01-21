@@ -2,7 +2,7 @@
 
 這是一個基於 HTML5 Canvas 的科技感粒子視覺效果。包含圓形填充、隨機有機流動以及動態的滑鼠互動反應。
 
-![Interaction Recording](https://media.giphy.com/media/your-link-here.gif) <!-- 提示：您可以將錄影上傳後替換此連結 -->
+![Interaction Recording](demo.webp)
 
 ## 功能特點
 - **圓形限制**：粒子初始並持續填滿中央圓形區域。
